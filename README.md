@@ -61,7 +61,7 @@ SKILLS THAT I HAVE GAINED TO DO A PROJECT.**
 - I am fond of taking good pictures of the mother earth. A photographer.
 - I have a great editing skils.
  <p align="center">
-<img src="https://github.com/DWARAKRAM/DWARAKRAM/blob/MAIN/ppt.png"/><img src="https://github.com/DWARAKRAM/DWARAKRAM/blob/MAIN/canva.png"/><img src="https://github.com/DWARAKRAM/DWARAKRAM/blob/MAIN/adobe.png"/><img src="https://github.com/DWARAKRAM/DWARAKRAM/blob/MAIN/Visual-Studio-Logo.png"/><img src="https://github.com/DWARAKRAM/DWARAKRAM/blob/MAIN/GitHub-Emblem.png"/><img src="https://github.com/DWARAKRAM/DWARAKRAM/blob/MAIN/Git-Icon-1788C.png"/>
+<img align="center" width="75px" src="https://github.com/DWARAKRAM/DWARAKRAM/blob/MAIN/ppt.png"/><img align="center" width="70px" src="https://github.com/DWARAKRAM/DWARAKRAM/blob/MAIN/canva.png"/><img align="center" width="78px" src="https://github.com/DWARAKRAM/DWARAKRAM/blob/MAIN/adobe.png"/><img align="center" width="70px" src="https://github.com/DWARAKRAM/DWARAKRAM/blob/MAIN/Visual-Studio-Logo.png"/><img align="center" width="75px" src="https://github.com/DWARAKRAM/DWARAKRAM/blob/MAIN/GitHub-Emblem.png"/> <img align="center" width="70px" src="https://github.com/DWARAKRAM/DWARAKRAM/blob/MAIN/Git-Icon-1788C.png"/>
  </p>
 
 </details>

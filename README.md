@@ -10,7 +10,15 @@ THIS IS A CASTLE THAT I BUILT USING MY SKILLS
 
 <h4 align="center">Say hello to your friend</h3>
 <p align="center">
-<a href="https://twitter.com/Dwarak25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Dwarak25" height="20" width="30" /></a><a href="https://linkedin.com/in/dwarakan25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dwarakan25" height="20" width="30" /></a><a href="https://kaggle.com/dwarakanramanathan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dwarakanramanathan" height="20" width="30" /></a><a href="https://instagram.com/d_w_a_r_a_k_25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="d_w_a_r_a_k_25" height="20" width="30" /></a><a href="https://medium.com/@dwarakram25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dwarakram25" height="20" width="30" /></a></a><a href="https://www.hackerrank.com/dwarakram25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dwarakram25" height="20" width="30" /></a>
+<a href="https://twitter.com/Dwarak25" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Dwarak25" height="20" width="30" /></a><a href="https://linkedin.com/in/dwarakan25" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dwarakan25" height="20" width="30" /></a><a href="https://kaggle.com/dwarakanramanathan" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dwarakanramanathan" height="20" width="30" /></a>
+<a href="https://instagram.com/d_w_a_r_a_k_25" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="d_w_a_r_a_k_25" height="20" width="30" /></a><a href="https://medium.com/@dwarakram25" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dwarakram25" height="20" width="30" /></a></a>
+<a href="https://www.hackerrank.com/dwarakram25" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dwarakram25" height="20" width="30" /></a>
 </p>
 
 ### Who am I ? 🤔

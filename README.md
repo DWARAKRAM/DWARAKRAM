@@ -23,8 +23,7 @@ THIS IS A CASTLE THAT I BUILT USING MY SKILLS
 
 ### Who am I ? 🤔
 
-**I AM DWARAKAN, A GREAT LEADER AND A REPRESENTATIVE OF MY BATCH. I AM A DEDICATED ELECTRICAL ENGINEER AND LEARNING A BUNCH OF USEFUL AND EFFICIENT CODING. I HAVE A GREAT PASSION ON LEADING PROJECTS AND AS WELL AS DEDICATING EVERY 
-SKILLS THAT I HAVE GAINED TO DO A PROJECT.**
+**I AM DWARAKAN, A GREAT LEADER AND A REPRESENTATIVE OF MY BATCH. I AM A DEDICATED ELECTRICAL ENGINEER AND LEARNING A BUNCH OF USEFUL AND EFFICIENT CODING. I PASSIONATE ON LEADING PROJECTS. I DEDICATE SKILLS THAT I HAVE GAINED TO DO A PROJECT.**
 
 ### 👨‍💻 I write my codes in
 
@@ -56,28 +55,28 @@ SKILLS THAT I HAVE GAINED TO DO A PROJECT.**
 
 ## ❤ Things I love
 - **I love to work with new tech and learn how they have been developed.**
-- **Have seen lot of Science fiction movies and love to watch much more than i have seen and learn good from them.**
-- **I have a great passion towards stage speaking and love to motivate people by speaking on stage.**
-- **I love to explore every new ideas and create new by combining many different ideas.**
-- **Love to code efficiently and work in a smarter way to solve a problem**
-- **I love to do any presentations that uses a .ppt or like a paper presentation**
+- **I have seen a lot of Science fiction movies and love to watch much more and learn new ideas from them.**
+- **I have great passion towards stage speaking and love to motivate people.**
+- **I love to explore new ideas and combine them to create new idea.**
+- **I love to code efficiently and work in a smarter way to solve a problem.**
+- **I love present .ppt's and paper presentation.**
 
 ## 👷‍♂️ What I do ?
 - **🔭I’m currently working on a mega project. That is to create a clone of ZOMATO application.This mega projects is divided into many small projects that will be uploaded to my repository so that you can take a look at it.**
-- **🌱Learning full stack web development that includes development and operations(DEVOPS). Later on i have an idea to learn CAD and MATLAB Softwares so that it'll help me to join my abitious company.**
+- **🌱Learning full stack web development that includes development and operations(DEVOPS). Later on I have an idea to learn CAD and MATLAB Softwares so that it'll help me to join my abitious company.**
 - **TO BE UPDATED**
 
 ## Misc.
-- I have a great passion towards cooking and serving
-- I love to spend time with nature 
+- I have a great passion towards cooking and serving.
+- I love to spend time with nature. 
 - I am fond of taking good pictures of the mother earth. A photographer.
 - I have a great editing skils.
- <p align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>	
 <img src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
 <img src="https://img.shields.io/badge/canva%20-%23FFFFFF.svg?&style=for-the-badge&logo=CANVA&logoColor=%2300F7F3"/>
 <img src="https://img.shields.io/badge/POWERPOINT%20-%23DE520F.svg?&style=for-the-badge&logo=POWERPOINT&logoColor=DE520F"/>
- </p>
+</p>
 
 </details>
 

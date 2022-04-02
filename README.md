@@ -48,6 +48,7 @@ SKILLS THAT I HAVE GAINED TO DO A PROJECT.**
 - **I have a great passion towards stage speaking and love to motivate people by speaking on stage.**
 - **I love to explore every new ideas and create new by combining many different ideas.**
 - **Love to code efficiently and work in a smarter way to solve a problem**
+- **I love to do any presentations that uses a .ppt or like a paper presentation**
 
 ## 👷‍♂️ What I do ?
 - **🔭I’m currently working on a mega project. That is to create a clone of ZOMATO application.This mega projects is divided into many small projects that will be uploaded to my repository so that you can take a look at it.**
@@ -58,6 +59,9 @@ SKILLS THAT I HAVE GAINED TO DO A PROJECT.**
 - I have a great passion towards cooking and serving
 - I love to spend time with nature 
 - I am fond of taking good pictures of the mother earth. A photographer.
+- I have a great editing skils.
+ 
+ <img src=""/><img src=""/><img src=""/><img src=""/><img src=""/><img src=""/>
  
 
 </details>

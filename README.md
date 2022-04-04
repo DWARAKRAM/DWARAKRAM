@@ -5,10 +5,10 @@
 <h2 align="center"> DWARAKAN RAMANATHAN </h2>
 
 <p align="center">
-THIS IS A CASTLE THAT I BUILT USING MY SKILLS 
+THIS IS MY CASTLE THAT IS BUILT USING MY SKILLS 
 </p>
 
-<h4 align="center">Say hello to your friend</h3>
+<h4 align="center">Say Hello to your Friend</h3>
 <p align="center">
 <a href="https://twitter.com/Dwarak25" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Dwarak25" height="20" width="30" /></a><a href="https://linkedin.com/in/dwarakan25" target="blank">

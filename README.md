@@ -1,6 +1,6 @@
 <h5 align="center"> Hello there 👋, I am</h5>
 <p align="center">
-<a href="https://DWARAKRAM.me"><img align="center" width="70px" src="https://github.com/DWARAKRAM/DWARAKRAM/blob/MAIN/LOGO.png"/></a>
+<a href="https://DWARAKRAM.me"><img align="center" width="70px" src="https://raw.githubusercontent.com/DWARAKRAM/DWARAKRAM/MAIN/LOGO%20L2.webp"/></a>
 </p>
 <h2 align="center"> DWARAKAN RAMANATHAN </h2>
 

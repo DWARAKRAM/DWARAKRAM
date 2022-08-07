@@ -43,7 +43,7 @@ THIS IS MY CASTLE THAT IS BUILT USING MY SKILLS
 <img src="https://img.shields.io/badge/matlab%20-%235F5F5F.svg?&style=for-the-badge&logo=matlab&logoColor=%235F5F5F"/>
 <img src="https://img.shields.io/badge/AUTOCAD%20-%23D30000.svg?&style=for-the-badge&logo=autocad&logoColor=D30000"/>
 <p align="center">
-<img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/PVsyst%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=black" /> 
+<img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <details>

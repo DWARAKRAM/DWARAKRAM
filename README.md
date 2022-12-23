@@ -12,8 +12,7 @@ THIS IS MY CASTLE THAT IS BUILT USING MY SKILLS
 <p align="center">
 <a href="https://twitter.com/Dwarak25" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Dwarak25" height="20" width="30" /></a><a href="https://linkedin.com/in/dwarakan25" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dwarakan25" height="20" width="30" /></a><a href="https://kaggle.com/dwarakanramanathan" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dwarakanramanathan" height="20" width="30" /></a>
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dwarakan25" height="20" width="30" /></a><a 
 <a href="https://instagram.com/d_w_a_r_a_k_25" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="d_w_a_r_a_k_25" height="20" width="30" /></a><a href="https://medium.com/@dwarakram25" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dwarakram25" height="20" width="30" /></a></a>
@@ -41,7 +40,6 @@ THIS IS MY CASTLE THAT IS BUILT USING MY SKILLS
 <p align="center">
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/matlab%20-%235F5F5F.svg?&style=for-the-badge&logo=matlab&logoColor=%235F5F5F"/>
-<img src="https://img.shields.io/badge/AUTOCAD%20-%23D30000.svg?&style=for-the-badge&logo=autocad&logoColor=D30000"/>
 <p align="center">
 <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p>

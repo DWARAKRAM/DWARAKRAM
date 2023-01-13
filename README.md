@@ -1,14 +1,14 @@
 <h5 align="center"> Hello there 👋, I am</h5>
 <p align="center">
-<a href="https://DWARAKRAM.me"><img align="center" width="140px" src="https://raw.githubusercontent.com/DWARAKRAM/DWARAKRAM/MAIN/LOGO%20L2.webp"/></a>
+<a href="https://DWARAKRAM.me"><img align="center" width="140px" src="https://user-images.githubusercontent.com/96610910/212326427-468344ba-9e5b-4ab7-89ea-8bdc16366454.jpg"/></a>
 </p>
 <h2 align="center"> DWARAKAN RAMANATHAN </h2>
 
 <p align="center">
-THIS IS MY CASTLE THAT IS BUILT USING MY SKILLS 
+SHOWCASE OF MY TECH SKILLS 
 </p>
 
-<h4 align="center">Say Hello to your Friend</h3>
+<h4 align="center">To say hello!!</h3>
 <p align="center">
 <a href="https://twitter.com/Dwarak25" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@Dwarak25" height="20" width="30" /></a><a href="https://linkedin.com/in/dwarakan25" target="blank">
@@ -22,18 +22,16 @@ THIS IS MY CASTLE THAT IS BUILT USING MY SKILLS
 
 ### Who am I ? 🤔
 
-**I AM DWARAKAN, A GREAT LEADER AND A REPRESENTATIVE OF MY BATCH. I AM A DEDICATED ELECTRICAL ENGINEER AND LEARNING A BUNCH OF USEFUL AND EFFICIENT CODING. I PASSIONATE ON LEADING PROJECTS. I DEDICATE SKILLS THAT I HAVE GAINED TO DO PROJECTS.**
+**I AM DWARAKAN, A GREAT LEADER AND REPRESENTATIVE OF MY BATCH. I AM A DEDICATED ELECTRICAL AND ELECTRONICS ENGINEER, LEARNING A BUNCH OF USEFUL AND EFFICIENT THINGS THAT WOULD HELP ME TO BUILD A STRONG CAREER IN SEMICONDUCTOR INDUSTRY. I AM GOOD AT LEADING AND HAVE DID AMPLE AMOUNT OF PROJECTS THAT GAVE ME WONDERFUL LEARNING.**
 
 ### 👨‍💻 I write my codes in
 
 
 <p align="center">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=gold"/>
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=%2300000"/>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/verilog%20-%F7DF1E.svg?&style=for-the-badge&logo=v&logoColor=white"/>
+
 
 ### 💪 My Strongholds & Favourites
 

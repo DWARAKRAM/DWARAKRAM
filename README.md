@@ -26,7 +26,6 @@ SHOWCASE OF MY TECH SKILLS
 
 ### 👨‍💻 I write my codes in
 
-
 <p align="center">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=gold"/>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -36,26 +35,33 @@ SHOWCASE OF MY TECH SKILLS
 ### 💪 My Strongholds & Favourites
 
 <p align="center">
+<img src="https://img.shields.io/badge/QuartusPrime%20-00ADD8?&style=for-the-badge&logo=intel&logoColor=%white"/>  
+<img src="https://img.shields.io/badge/ModelSim%20-1E17F5?&style=for-the-badge&logo=m&logoColor=%white"/>
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/matlab%20-%235F5F5F.svg?&style=for-the-badge&logo=matlab&logoColor=%235F5F5F"/>
+<img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</p>
 <p align="center">
-<img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Xilinx Vivado%20-FF0000?&style=for-the-badge&logo=xilinx&logoColor=%white"/>  
+<img src="https://img.shields.io/badge/Notepad++%20-00ADD8?&style=for-the-badge&logo=n&logoColor=%white"/>  
 </p>
 
 <details>
 <summary> <strong> Get to know me better </strong> </summary>
 
 ## ❤ Things I love
+- **I am addicted towards learning things about semiconductors.**
 - **I love to work with new tech and learn how they have been developed.**
-- **I have seen a lot of Science fiction movies and love to watch much more and learn new ideas from them.**
-- **I have great passion towards stage speaking and love to motivate people.**
+- **I have great passion towards stage speaking and love to motivate and teach people.**
 - **I love to explore new ideas and combine them to create new idea.**
+- **I have seen a lot of Science fiction movies and love to watch much more and learn new ideas from them.**
 - **I love to code efficiently and work in a smarter way to solve a problem.**
 - **I love present .ppt's and paper presentation.**
 
 ## 👷‍♂️ What I do ?
-- **🔭I’m currently working on a mega project. That is to create a clone of ZOMATO application.This mega projects is divided into many small projects that will be uploaded to my repository so that you can take a look at it.**
-- **🌱Learning full stack web development that includes development and operations(DEVOPS). Later on I have an idea to learn CAD and MATLAB Softwares so that it'll help me to join my abitious company.**
+- **🔭I am doing projects and courses that grooms me towards semiconductor life.**
+- **🌱learning verification methodologies using system verilog**
 - **TO BE UPDATED**
 
 ## Misc.
